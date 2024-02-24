@@ -1,0 +1,28 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "watch": "vite build --watch",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "@popperjs/core": "^2.11.6",
+        "@vitejs/plugin-vue": "^4.3.4",
+        "axios": "^1.5.0",
+        "bootstrap": "^5.2.3",
+        "laravel-vite-plugin": "^0.8.0",
+        "sass": "^1.56.1",
+        "vite": "^4.0.0",
+        "vue": "^3.2.36"
+    },
+    "dependencies": {
+        "vue-content-placeholders": "^0.2.1",
+        "vue-html-to-paper": "^2.0.3",
+        "vue-loader": "^17.2.2",
+        "vue-router": "^4.0.13",
+        "vue-sweetalert2": "^5.0.5",
+        "vue-toastr": "^2.1.2"
+    }
+}

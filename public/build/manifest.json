@@ -1,0 +1,176 @@
+{
+  "public/frontend/img/nama/about.png": {
+    "file": "assets/about-7eff9a9c.png",
+    "src": "public/frontend/img/nama/about.png"
+  },
+  "public/frontend/img/nama/cart.png": {
+    "file": "assets/cart-857fbb99.png",
+    "src": "public/frontend/img/nama/cart.png"
+  },
+  "public/frontend/img/nama/cert/1.jpeg": {
+    "file": "assets/1-cc8ab05f.jpeg",
+    "src": "public/frontend/img/nama/cert/1.jpeg"
+  },
+  "public/frontend/img/nama/cert/10.jpeg": {
+    "file": "assets/10-af6ae163.jpeg",
+    "src": "public/frontend/img/nama/cert/10.jpeg"
+  },
+  "public/frontend/img/nama/cert/2.png": {
+    "file": "assets/2-249884cb.png",
+    "src": "public/frontend/img/nama/cert/2.png"
+  },
+  "public/frontend/img/nama/cert/3.jpeg": {
+    "file": "assets/3-4001fe4a.jpeg",
+    "src": "public/frontend/img/nama/cert/3.jpeg"
+  },
+  "public/frontend/img/nama/cert/4.jpeg": {
+    "file": "assets/4-0d6b7c96.jpeg",
+    "src": "public/frontend/img/nama/cert/4.jpeg"
+  },
+  "public/frontend/img/nama/cert/5.jpeg": {
+    "file": "assets/5-6a1d53ce.jpeg",
+    "src": "public/frontend/img/nama/cert/5.jpeg"
+  },
+  "public/frontend/img/nama/cert/6.jpeg": {
+    "file": "assets/6-6f619cad.jpeg",
+    "src": "public/frontend/img/nama/cert/6.jpeg"
+  },
+  "public/frontend/img/nama/cert/7.jpeg": {
+    "file": "assets/7-dd1e3f35.jpeg",
+    "src": "public/frontend/img/nama/cert/7.jpeg"
+  },
+  "public/frontend/img/nama/cert/8.jpeg": {
+    "file": "assets/8-83f3f3af.jpeg",
+    "src": "public/frontend/img/nama/cert/8.jpeg"
+  },
+  "public/frontend/img/nama/cert/9.jpeg": {
+    "file": "assets/9-3808e89a.jpeg",
+    "src": "public/frontend/img/nama/cert/9.jpeg"
+  },
+  "public/frontend/img/nama/clients/1.png": {
+    "file": "assets/1-c3e47e45.png",
+    "src": "public/frontend/img/nama/clients/1.png"
+  },
+  "public/frontend/img/nama/clients/10.png": {
+    "file": "assets/10-f7e8e04b.png",
+    "src": "public/frontend/img/nama/clients/10.png"
+  },
+  "public/frontend/img/nama/clients/12.png": {
+    "file": "assets/12-8975e058.png",
+    "src": "public/frontend/img/nama/clients/12.png"
+  },
+  "public/frontend/img/nama/clients/13.png": {
+    "file": "assets/13-3e06feae.png",
+    "src": "public/frontend/img/nama/clients/13.png"
+  },
+  "public/frontend/img/nama/clients/14.png": {
+    "file": "assets/14-a236be21.png",
+    "src": "public/frontend/img/nama/clients/14.png"
+  },
+  "public/frontend/img/nama/clients/15.png": {
+    "file": "assets/15-df46de01.png",
+    "src": "public/frontend/img/nama/clients/15.png"
+  },
+  "public/frontend/img/nama/clients/2.png": {
+    "file": "assets/2-a593176f.png",
+    "src": "public/frontend/img/nama/clients/2.png"
+  },
+  "public/frontend/img/nama/clients/3.png": {
+    "file": "assets/3-f0b3666b.png",
+    "src": "public/frontend/img/nama/clients/3.png"
+  },
+  "public/frontend/img/nama/clients/4.png": {
+    "file": "assets/4-427e10be.png",
+    "src": "public/frontend/img/nama/clients/4.png"
+  },
+  "public/frontend/img/nama/clients/5.png": {
+    "file": "assets/5-1b56d74f.png",
+    "src": "public/frontend/img/nama/clients/5.png"
+  },
+  "public/frontend/img/nama/clients/6.png": {
+    "file": "assets/6-1909a659.png",
+    "src": "public/frontend/img/nama/clients/6.png"
+  },
+  "public/frontend/img/nama/clients/7.png": {
+    "file": "assets/7-18c2bf5d.png",
+    "src": "public/frontend/img/nama/clients/7.png"
+  },
+  "public/frontend/img/nama/clients/8.png": {
+    "file": "assets/8-406ae0cd.png",
+    "src": "public/frontend/img/nama/clients/8.png"
+  },
+  "public/frontend/img/nama/clients/9.png": {
+    "file": "assets/9-68b25f53.png",
+    "src": "public/frontend/img/nama/clients/9.png"
+  },
+  "public/frontend/img/nama/code.png": {
+    "file": "assets/code-880e49d7.png",
+    "src": "public/frontend/img/nama/code.png"
+  },
+  "public/frontend/img/nama/loading.gif": {
+    "file": "assets/loading-3764a7b0.gif",
+    "src": "public/frontend/img/nama/loading.gif"
+  },
+  "public/frontend/img/nama/logo.png": {
+    "file": "assets/logo-01884187.png",
+    "src": "public/frontend/img/nama/logo.png"
+  },
+  "public/frontend/img/nama/quality.png": {
+    "file": "assets/quality-5700784d.png",
+    "src": "public/frontend/img/nama/quality.png"
+  },
+  "public/frontend/img/nama/vision.png": {
+    "file": "assets/vision-5377c53c.png",
+    "src": "public/frontend/img/nama/vision.png"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-4faacf17.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/logo-01884187.png",
+      "assets/loading-3764a7b0.gif",
+      "assets/quality-5700784d.png",
+      "assets/vision-5377c53c.png",
+      "assets/code-880e49d7.png",
+      "assets/about-7eff9a9c.png",
+      "assets/1-c3e47e45.png",
+      "assets/2-a593176f.png",
+      "assets/3-f0b3666b.png",
+      "assets/4-427e10be.png",
+      "assets/5-1b56d74f.png",
+      "assets/6-1909a659.png",
+      "assets/7-18c2bf5d.png",
+      "assets/8-406ae0cd.png",
+      "assets/9-68b25f53.png",
+      "assets/10-f7e8e04b.png",
+      "assets/12-8975e058.png",
+      "assets/13-3e06feae.png",
+      "assets/14-a236be21.png",
+      "assets/15-df46de01.png",
+      "assets/cart-857fbb99.png",
+      "assets/1-cc8ab05f.jpeg",
+      "assets/2-249884cb.png",
+      "assets/3-4001fe4a.jpeg",
+      "assets/4-0d6b7c96.jpeg",
+      "assets/5-6a1d53ce.jpeg",
+      "assets/6-6f619cad.jpeg",
+      "assets/7-dd1e3f35.jpeg",
+      "assets/8-83f3f3af.jpeg",
+      "assets/9-3808e89a.jpeg",
+      "assets/10-af6ae163.jpeg"
+    ],
+    "css": [
+      "assets/app-4faacf17.css"
+    ],
+    "file": "assets/app-1529e7cb.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
